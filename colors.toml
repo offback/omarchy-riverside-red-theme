@@ -1,0 +1,37 @@
+# Riverside Red — 1963 Chevrolet Corvette Sting Ray coupe
+# Riverside Red
+#
+# accent #ef4438 is the paint colour; the surfaces around it are the
+# same hue taken down to near-black.
+
+mode = "dark"
+accent = "#ef4438"
+
+selection = "#33110f"
+muted = "#7d5452"
+background = "#210f0f"
+
+dark_background = "#180b0b"
+darker_background = "#100707"
+lighter_background = "#321616"
+foreground = "#eed2d0"
+
+dark_foreground = "#9c7c7a"
+light_foreground = "#f7e2e0"
+bright_foreground = "#fdf0ee"
+red = "#ff5f5f"
+
+yellow = "#f0c050"
+orange = "#ff9455"
+green = "#6fd07a"
+cyan = "#4fc9c0"
+blue = "#6f9ff0"
+magenta = "#cf7fb8"
+brown = "#7d4a34"
+bright_red = "#ff8585"
+bright_yellow = "#ffd572"
+bright_orange = "#ffb17d"
+bright_green = "#96e0a0"
+bright_cyan = "#7fdcd4"
+bright_blue = "#9cbcff"
+bright_magenta = "#e0a4d0"
